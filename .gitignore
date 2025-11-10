@@ -45,3 +45,12 @@ Thumbs.db
 # Keep .env out of repo (already present but reinforce)
 .env.local
 .env.*.local
+# Ignore large data and model files
+user_label/dataset/
+user_label/raw_data/
+user_label/models/
+user_label/saved_model/
+*.bin
+*.safetensors
+*.pt
+*.pth
