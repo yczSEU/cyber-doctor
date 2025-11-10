@@ -62,3 +62,7 @@ user_label/dataset/
 user_label/raw_data/
 user_label/models/
 user_label/saved_model/
+user_label/dataset/
+user_label/raw_data/
+user_label/models/
+user_label/saved_model/
