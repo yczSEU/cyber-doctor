@@ -2,7 +2,7 @@
 
 本项目基于 BERT 模型实现医疗问诊文本的自动标签预测，支持 Top-K 推荐与层级化标签体系。
 
-## 📦 模型选择
+## 模型选择
 
 - **基础模型**：`chinese-bert-wwm-ext`  
   - 来源：[Hugging Face Model Hub](https://huggingface.co/hfl/chinese-bert-wwm-ext)
@@ -13,7 +13,7 @@
 
 > 模型权重目前在本地，后续上传至 Hugging Face Hub：  
 
-## 🗃️ 数据集
+## 数据集
 
 原始数据来自 Hugging Face 公开医疗数据集：
 
